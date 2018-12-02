@@ -1,0 +1,11 @@
+.card-image{
+    height: 160px;
+    background-color: red;
+    
+}
+.top-div{
+    width: 18rem;
+    display: inline-block;
+    margin:10px;
+    background-color: azure;
+}
